@@ -15,6 +15,6 @@ class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello: Belal Marwan Mansour, 443004704" );
+        System.out.println( "Hello: Belal Marwan Mansour, 443004704." );
     }
 }
